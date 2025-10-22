@@ -46,5 +46,3 @@ Los beneficios estimados (en miles de euros al a√±o) para cada alternativa, seg√
 | **A1** |  30  |  60  | 100  | 150  |
 | **A2** |  40  |  70  | 110  | 130  |
 | **A3** |  20  |  50  |  90  | 180  |
-
-  
